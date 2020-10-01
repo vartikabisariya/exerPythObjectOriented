@@ -23,7 +23,7 @@
 ## Create a Jupyter Notebook .ipynb file
 
 * In Jupyter Notebook or VSCode navigate to your repository folder.
-  * Create a new Jupyter Notebook called OSTutorial.ipynb
+  * Create a new Jupyter Notebook called OOPTutorial.ipynb
 
 ## Watch Tutorial
 
