@@ -35,9 +35,8 @@
   * Python OOP 5 - Special (Magic/Dunder) Methods (14 min): https://youtu.be/3ohzBxoFHAY
   * Python OOP 6 - Property Decorators (10 min): https://youtu.be/jCzT9XFZ5bw
 * Execute code examples in separate cells.
-  * Fill in.
-  * 
-  * 
+  * Students have found it easiest to do all the tutorials on a single Jupyter notebook so the code from previous videos is easy to see.
+  * Add a comment in your code when you start code from a new video. (i.e. #video 1, #video 2, etc.)
   
 * When you're done make sure you save your file.
 
